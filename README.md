@@ -1,6 +1,4 @@
-# Wilson Staley 🚀
-
-| ![Wilson's github stats](https://github-readme-stats.vercel.app/api?username=wilstaley&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)| ![Michael Scott](https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif) |
+| <h1>Wilson Staley 🚀</h1> ![Wilson's github stats](https://github-readme-stats.vercel.app/api?username=wilstaley&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)| ![Michael Scott](https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif) |
 |-------|---------|
 
 <!--
